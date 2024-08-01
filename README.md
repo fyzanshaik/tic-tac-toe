@@ -7,8 +7,8 @@ This project features two components:
 
 ## Project Structure
 
--  `gesturegame/`: Contains the code for the gesture-controlled Tic-Tac-Toe game.
--  `terminalapp/`: Contains the code for the terminal-based Tic-Tac-Toe game.
+-  `game-gesture/`: Contains the code for the gesture-controlled Tic-Tac-Toe game.
+-  `game-go/`: Contains the code for the terminal-based Tic-Tac-Toe game.
 
 ## Setup
 
@@ -18,7 +18,7 @@ This project features two components:
 2. **Navigate to `gesturegame/` folder**:
 
    ```sh
-   cd gesturegame
+   cd game-gesture
    ```
 
 3. **Build and run the Go application**:
@@ -39,7 +39,7 @@ This project features two components:
 
 1. **Navigate to `terminalapp/` folder**:
    ```sh
-   cd terminalapp
+   cd game-go
    ```
 2. **Build and run the Go application**:
    ```sh
@@ -54,14 +54,13 @@ This project features two components:
 2. **Terminal Game**:
    -  A standard terminal-based Tic-Tac-Toe game with text-based input and output.
 
-```
-
 ### Summary:
-- **Project Structure**: Describes the organization of your folders.
-- **Setup**: Provides setup instructions for both components.
-- **Control Flow**: Explains the basic operation of each component.
-- **Contact**: Provides contact information for further inquiries.
 
+-  **Project Structure**: Describes the organization of your folders.
+-  **Setup**: Provides setup instructions for both components.
+-  **Control Flow**: Explains the basic operation of each component.
+-  **Contact**: Provides contact information for further inquiries.
 
+```
 
 ```
